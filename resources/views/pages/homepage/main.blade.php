@@ -44,7 +44,7 @@
     <div class="flex pt-50 animasi" id="keunggulan">
         <div class="p-3 text-center space-y-5">
             <h1 class="text-white font-bold text-4xl">Keunggulan</h1>
-            <div class="grid lg:grid-cols-3 grid-cols-1  gap-5 p-5 justify-center items-center pt-20">
+            <div class="grid lg:grid-cols-3 grid-cols-1  gap-5 p-5 justify-center items-center pt-10">
                 <div class="p-5 border-[#007CCC] border-2 text-center  w-auto rounded-2xl">
                     <div class="border-[#007CCC] border-2 w-20 mx-auto p-4 rounded-2xl"
                         style="background: #007CCC;
@@ -63,7 +63,7 @@ background: linear-gradient(180deg, rgba(0, 124, 204, 1) 0%, rgba(0, 14, 53, 1) 
 
                     </div>
                     <h1 class="text-white font-bold text-2xl mt-3">Pencatatan Transaksi</h1>
-                    <p class="text-white mt-3">Mencatat setiap pengeluaran harian, mingguan, bulanan, maupun tahunan dengan rapi dan
+                    <p class="text-white mt-3 text-sm">Mencatat setiap pengeluaran harian, mingguan, bulanan, maupun tahunan dengan rapi dan
                         terstruktur.</p>
 
                 </div>
